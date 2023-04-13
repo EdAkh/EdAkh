@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Edwin! I was a MEP Project engineer who was undergoing into a career change to become a data scientist.
+# 👋 Hi, I’m Edwin! 
+
+- ♻️ I was a MEP Project engineer who was undergoing a career change to become a data scientist.
 
 - 👀 I am passionate about data science and I believe that data science is a powerful tool that can be used to make better decisions and solve complex problems in various industries.
 
