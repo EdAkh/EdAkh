@@ -46,9 +46,9 @@
   <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" alt="Dash icon" width="70" height="40">  
 </p>
 
-<p>
+
 ![EdAkh's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdAkh&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdAkh)](https://github.com/EdAkh/github-readme-stats)
-</p>
+
 
 <!---
 EdAkh/EdAkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
